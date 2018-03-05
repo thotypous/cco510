@@ -50,7 +50,7 @@ title: Aulas
 
 ## 23/04
 
- * Aula de exercícios.
+Aula de exercícios.
 
 ## 30/04
 
