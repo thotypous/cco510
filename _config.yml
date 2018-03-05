@@ -8,7 +8,7 @@ title:               CCO-510
 tagline:             'Estruturas de Dados'
 description:         ''
 url:                 https://pmatias.me/cco510
-baseurl:             ''
+baseurl:             https://pmatias.me/cco510
 paginate:            5
 
 # About/contact
