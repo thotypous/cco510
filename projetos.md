@@ -20,11 +20,12 @@ O objetivo do primeiro projeto é estudar, de forma prática, estruturas de dado
 
 * Cada grupo deve preparar uma solução original para o problema (plágio não será tolerado).
   * O código deve ser enviado ao professor até um dia antes da apresentação.
-  * O código deve ser testado e passar na submissão do UVa, e a apresentação deve discutir a posição da solução da equipe no *ranking* do UVa (desempenho com relação a soluções submetidas por outros usuários).
+  * O código deve ser testado e passar na submissão do UVa.
 * A apresentação (de 20 a 30 minutos) deverá abordar, ao menos:
   * Assuntos teóricos necessários ao entendimento da solução.
   * Aplicação ao problema.
   * Complexidade assintótica da solução.
+  * Posição da solução da equipe no *ranking* do UVa (desempenho com relação a soluções submetidas por outros usuários).
   * Dificuldades de implementação.
 
 ### Bibliografia sugerida
