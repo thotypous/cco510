@@ -21,10 +21,9 @@ Ferramentas (Debian/Ubuntu): `sudo apt-get install build-essential clang gdb val
 ## 19/03
 
  * Arranjos.
- * Listas encadeadas.
- * Filas.
- * Pilhas.
- * Deques.
+ * Listas encadeadas. [[1]](http://www.cs.ukzn.ac.za/~hughm/ds/slides/19-linked-lists.pdf)
+ * Filas. Pilhas. [[1]](http://www.cs.ukzn.ac.za/~hughm/ds/slides/20-stacks-queues-deques.pdf)
+ * Deques. [[1]](https://www.eecs.yorku.ca/course_archive/2003-04/F/2011/2011A/DatStr_05_Deques.pdf)
 
 ## 26/03
 
