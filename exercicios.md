@@ -9,4 +9,4 @@ title: Exercícios
 
 3. Faça duas implementações da estrutura Deque: uma usando um vetor para armazenar os dados, e outra usando uma lista ligada duplamente encadeada.
 
-4. Implemente um conjunto de redes de ordenação (*sorting networks*) para entradas com tamanho igual a algumas potências de 2. Implemente uma rotina que use *merge sort* para quebrar uma entrada de tamanho arbitrário em algo que suas redes possam processar. Meça o desempenho da sua implementação com relação a outros algoritmos (e.g. *quicksort*).
+4. Implemente um conjunto de redes de ordenação (*sorting networks*) para entradas com tamanho igual a algumas potências de 2. Implemente uma rotina que use *merge sort* para quebrar uma entrada de tamanho arbitrário em pedaços que suas redes possam processar. Meça o desempenho da sua implementação com relação a outros algoritmos (e.g. *quicksort*).
