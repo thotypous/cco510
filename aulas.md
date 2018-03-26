@@ -27,9 +27,9 @@ Ferramentas (Debian/Ubuntu): `sudo apt-get install build-essential clang gdb val
 
 ## 26/03
 
- * Ordenação.
- * Busca binária.
- * Hashing.
+ * Ordenação. [[1]](https://en.wikipedia.org/wiki/Mergesort) [[2]](https://en.wikipedia.org/wiki/Quicksort) [[3]](https://en.wikipedia.org/wiki/Quickselect) [[4]](https://en.wikipedia.org/wiki/Timsort) [[5]](https://en.wikipedia.org/wiki/Sorting_network)
+ * Busca binária. [[1]](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+ * Hashing. [[1]](https://en.wikipedia.org/wiki/Hash_table) [[2]](https://www.131002.net/siphash/)
 
 ## 02/04
 
