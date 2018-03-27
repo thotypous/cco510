@@ -16,6 +16,10 @@ O objetivo do primeiro projeto é estudar, de forma prática, estruturas de dado
 5. [UVa 12125 - March of the Penguins](https://uva.onlinejudge.org/external/121/12125.pdf)
 6. [UVa 10888 - Warehouse](https://uva.onlinejudge.org/external/108/10888.pdf)
 
+### Distribuição dos temas
+
+Veja no [Doodle](https://doodle.com/poll/tceuz9723ve4nrgi).
+
 ### Instruções
 
 * Cada grupo deve preparar uma solução original para o problema (plágio não será tolerado).
@@ -45,6 +49,10 @@ O objetivo do segundo projeto é abordar temas avançados que não façam parte 
 4. *Pointer-ownership* versus implementação de estruturas de dados. Implementação de alguma estrutura não abordada em [Learn Rust by writing Entirely Too Many Linked Lists](https://github.com/rust-unofficial/too-many-lists).
 5. *Lock-free data structures*.
 6. Bloom e [inverted bloom](https://arxiv.org/abs/0704.3313).
+
+### Distribuição dos temas
+
+Veja no [Doodle](https://doodle.com/poll/vqn86tbzxw6ytnd8).
 
 ### Instruções
 
