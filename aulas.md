@@ -33,9 +33,8 @@ Ferramentas (Debian/Ubuntu): `sudo apt-get install build-essential clang gdb val
 
 ## 02/04
 
- * Árvores.
- * Busca em árvores.
- * Filas de prioridade (*heaps*).
+ * Árvores de busca binária [[1]](https://courses.cs.washington.edu/courses/cse373/06sp/handouts/lecture07.pdf).
+ * Filas de prioridade (*heaps*) [[1]](https://courses.cs.washington.edu/courses/cse373/06sp/handouts/lecture10.pdf) [[2]](https://www.cc.gatech.edu/~bader/COURSES/GATECH/CS6505-Spring2006/fibonacci.ppt).
 
 ## 09/04
 
