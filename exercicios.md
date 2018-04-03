@@ -12,3 +12,5 @@ title: Exercícios
 4. Implemente um conjunto de redes de ordenação (*sorting networks*) para entradas com tamanho igual a algumas potências de 2. Implemente uma rotina que use *merge sort* para quebrar uma entrada de tamanho arbitrário em pedaços que suas redes possam processar. Meça o desempenho da sua implementação com relação a outros algoritmos (e.g. *quicksort*).
 
 5. O arquivo [hashtable.tar.gz]({{ site.baseurl }}/public/files/hashtable.tar.gz) contém uma implementação do [SipHash](https://www.131002.net/siphash) e uma sugestão de esqueleto para uma tabela hash simples, com apenas duas operações (*put* e *get*). Complete a implementação dessas operações. Como exercício adicional, tente construir uma tabela que lide com colisões de outra forma, por exemplo mantendo uma lista ligada em cada posição do vetor *elems*.
+
+6. Implemente uma heap binária que armazene, juntamente com os valores inteiros (chaves) que indicam a prioridade, um valor (e.g. uma string) associado a cada item.
