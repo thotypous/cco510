@@ -38,14 +38,14 @@ Ferramentas (Debian/Ubuntu): `sudo apt-get install build-essential clang gdb val
 
 ## 09/04
 
- * Representação de grafos.
- * DFS.
- * BFS.
+ * Representação de grafos [[1]](https://en.wikipedia.org/wiki/Adjacency_list) [[2]](https://en.wikipedia.org/wiki/Adjacency_matrix).
+ * DFS [[1]](https://en.wikipedia.org/wiki/Depth-first_search).
+ * BFS [[1]](https://en.wikipedia.org/wiki/Breadth-first_search).
 
 ## 16/04
 
- * Dijkstra.
- * Floyd-Warshall.
+ * Dijkstra [[1]](http://web.stanford.edu/class/archive/cs/cs161/cs161.1176/Slides/Lecture11.pdf).
+ * Floyd-Warshall [[1]](http://web.stanford.edu/class/archive/cs/cs161/cs161.1176/Slides/Lecture12.pdf).
 
 ## 23/04
 
