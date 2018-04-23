@@ -49,7 +49,8 @@ Ferramentas (Debian/Ubuntu): `sudo apt-get install build-essential clang gdb val
 
 ## 23/04
 
-Aula de exercícios.
+ * Aula de exercícios.
+ * **Prova de suficiência**.
 
 ## 30/04
 
@@ -65,7 +66,7 @@ Aula de exercícios.
 
 ## 21/05
 
-**Prova**
+**Prova**.
 
 ## 28/05
 
