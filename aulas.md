@@ -61,7 +61,7 @@ Ferramentas (Debian/Ubuntu): `sudo apt-get install build-essential clang gdb val
 
 ## 14/05
 
-Aula de exercícios.
+* [Aula de exercícios](https://www.codepit.io/#/contest/5af965ff636fa800962e88a3/view). Senha: `puyrkgma`.
 
 ## 21/05
 
