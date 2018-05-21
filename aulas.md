@@ -66,6 +66,7 @@ Ferramentas (Debian/Ubuntu): `sudo apt-get install build-essential clang gdb val
 ## 21/05
 
 * [**Prova**](https://www.codepit.io/#/contest/5b0285f7636fa800962e8c68/view). Senha: `nquozrbj`.
+* Para quem for resolver o **problema B em Python**: utilize [esta função `nextLine()`]({{ site.baseurl }}/public/files/nextLine.py) no lugar da função `input()`, para pular linhas em branco que existirem na entrada.
 
 ## 28/05
 
