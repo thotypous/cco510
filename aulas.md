@@ -70,15 +70,15 @@ Ferramentas (Debian/Ubuntu): `sudo apt-get install build-essential clang gdb val
 
 ## 28/05
 
-Apresentação do Projeto 1, grupos 1-3.
+~~Apresentação do Projeto 1, grupos 1-3.~~ **Aula cancelada por determinação da Reitoria em virtude da greve dos caminhoneiros**
 
 ## 04/06
 
-Apresentação do Projeto 1, grupos 4-6.
+Apresentação do Projeto 1, grupos 1-3.
 
 ## 11/06
 
-Orientação dos projetos.
+Apresentação do Projeto 1, grupos 4-6.
 
 ## 18/06
 
