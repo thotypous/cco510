@@ -82,9 +82,12 @@ Apresentação do Projeto 1, grupos 4-6.
 
 ## 18/06
 
-Apresentação do Projeto 2, grupos 1-3.
+~~Apresentação do Projeto 2, grupos 1-3.~~ **Adiado para próxima semana**
 
 ## 25/06
 
-Apresentação do Projeto 2, grupos 4-6.
+Apresentação do Projeto 2, grupos 1-4.
 
+## 02/07
+
+Prova Substitutiva.
