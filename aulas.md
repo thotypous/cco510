@@ -90,4 +90,8 @@ Apresentação do Projeto 2, grupos 1-4.
 
 ## 02/07
 
+~~Prova Substitutiva.~~ **Adiado para próxima semana em virtude do jogo da copa**
+
+## 09/07
+
 Prova Substitutiva.
