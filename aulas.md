@@ -94,4 +94,4 @@ Apresentação do Projeto 2, grupos 1-4.
 
 ## 16/07
 
-Prova Substitutiva.
+* [**Prova Substitutiva**](https://www.codepit.io/#/contest/5b4bf659ff0dd0001f21d65b/view). Senha: `syrlacps`.
